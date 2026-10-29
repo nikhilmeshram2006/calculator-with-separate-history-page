@@ -1,4 +1,4 @@
-My first web calculator to do mathematical operations. <br>
+<h3>My first web calculator to do mathematical operations. <h3></h3> <br>
 
 
 -Basic arithmetic: addition, subtraction, multiplication and division. <br>
