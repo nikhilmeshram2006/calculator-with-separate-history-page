@@ -1,10 +1,10 @@
-My first web calculator to do mathematical operations.
+My first web calculator to do mathematical operations. <br>
 
 
--Basic arithmetic: addition, subtraction, multiplication and division.
--Percentage, decimal, sign change and backspace.
--Keyboard support.
--Recent calculation history.
--Copy-result button.
--Responsive design for mobile and desktop.
--No external libraries, tracking or internet connection required.
+-Basic arithmetic: addition, subtraction, multiplication and division. <br>
+-Percentage, decimal, sign change and backspace. <br>  
+-Keyboard support. <br>
+-Recent calculation history. <br>
+-Copy-result button. <br>
+-Responsive design for mobile and desktop. <br>
+-No external libraries, tracking or internet connection required. <br>
